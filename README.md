@@ -11,7 +11,6 @@
 - **Langages** : SQL, Python, Java, JavaScript
 - **Base de données** : PostgreSQL, MySQL, MongoDB
 - **Analyse & BI** : Power BI, Excel avancé, ETL, data visualisation, modélisation
-- **Cybersécurité** : Sécurité réseau, gestion des accès
 - **Outils & Dev** : Git, Docker, Jupyter, Notebook
 
 ---
