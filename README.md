@@ -19,5 +19,5 @@
 
 ## 📫 Me contacter
 
-- LinkedIn : [linkedin](www.linkedin.com/in/julian-malaval-933a9a28a)
+- LinkedIn : [linkedin](www.linkedin.com/in/julian-malaval)
 - Email : julianheimana@gmail.com
