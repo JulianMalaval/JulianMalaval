@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Salut, moi c’est [MALAVAL Julian]
 
-<!--
-**JulianMalaval/JulianMalaval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en Master MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises)  
+📍 Centre d'interets : **bases de données**, l’**analyse de données**, le **Business Intelligence** et la **cybersécurité**  
+🔎 Curieux, rigoureux et toujours prêt à explorer comment la tech peut aider à mieux comprendre, sécuriser et piloter les données
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences techniques
+
+- **Langages** : SQL, Python, Java, JavaScript
+- **Base de données** : PostgreSQL, MySQL, MongoDB
+- **Analyse & BI** : Power BI, Excel avancé, ETL, data visualisation, modélisation
+- **Cybersécurité** : Sécurité réseau, gestion des accès
+- **Outils & Dev** : Git, Docker, Jupyter, Notebook
+
+---
+
+---
+
+## 📫 Me contacter
+
+- LinkedIn : [linkedin.com/in/ton-profil](www.linkedin.com/in/julian-malaval-933a9a28a)
+- Email : julianheimana@gmail.com
